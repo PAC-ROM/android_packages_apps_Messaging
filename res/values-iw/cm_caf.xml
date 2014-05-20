@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="cell_broadcast_sender">ערוץ שידור לאנטנה</string>
   <string name="mms1">MMS אחד</string>
   <string name="mms2">MMS שני</string>
@@ -30,7 +30,7 @@
   <string name="subscription1_title">הרשמה 1</string>
   <string name="subscription2_title">הרשמה 2</string>
   <string name="subscription3_title">הרשמה 3</string>
-  <string name="pending_mms_title">MMS ממתיi במנוי אחר</string>
+  <string name="pending_mms_title">MMS ממתין במנוי אחר</string>
   <string name="pending_mms">הודעות: הודעת MMS אחת או יותר בתהליך</string>
   <string name="pending_mms_text">גע כדי להחליף הרשמה</string>
   <string name="abort_mms">הודעות: בטל MMS</string>

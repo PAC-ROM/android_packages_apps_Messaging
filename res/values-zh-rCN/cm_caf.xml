@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="cell_broadcast_sender">小区广播信道</string>
   <string name="mms1">彩信 1</string>
   <string name="mms2">彩信 2</string>
